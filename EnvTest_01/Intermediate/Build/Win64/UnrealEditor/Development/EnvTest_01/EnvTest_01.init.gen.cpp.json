@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\boblet\\documents\\github\\01_envtest\\envtest_01\\intermediate\\build\\win64\\unrealeditor\\inc\\envtest_01\\envtest_01.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\boblet\\documents\\github\\01_envtest\\envtest_01\\intermediate\\build\\win64\\envtest_01editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\boblet\\documents\\github\\01_envtest\\envtest_01\\intermediate\\build\\win64\\unrealeditor\\development\\envtest_01\\definitions.envtest_01.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

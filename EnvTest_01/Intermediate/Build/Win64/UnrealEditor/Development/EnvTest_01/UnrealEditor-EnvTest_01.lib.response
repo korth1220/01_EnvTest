@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EnvTest_01.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\EnvTest_01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\EnvTest_01.cpp.obj"
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\EnvTest_01GameModeBase.cpp.obj"
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\EnvTest_01.init.gen.cpp.obj"
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\EnvTest_01GameModeBase.gen.cpp.obj"
+"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\Default.rc2.res"
+/OUT:"C:\Users\Boblet\Documents\GitHub\01_EnvTest\EnvTest_01\Intermediate\Build\Win64\UnrealEditor\Development\EnvTest_01\UnrealEditor-EnvTest_01.lib"
